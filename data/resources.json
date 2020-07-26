@@ -1,17 +1,17 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Join the commuity, learn new things!",
+  "title": "GDG Sudbury DevFest 2020",
+  "description": "GDG Sudbury DevFest brings together local experts in Android, Web and Cloud technologies for a day of sessions, workshops and showcases.",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "dates": "October 12-13, 2020",
+  "partnershipProposition": "https://drive.google.com/open?id=0BwsxDEszfX_nZ0JVQVNycTl2djQ",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "RSVP for a ticket",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
@@ -26,7 +26,7 @@
   "coc": "/data/coc.md",
   "timezoneOffset": "-180",
   "footer": {
-    "blog": "Blog"
+    "blog": "Meetup"
   },
   "mySchedule": {
     "title": "My Schedule",
@@ -37,8 +37,8 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Sudbury",
+          "url": "https://meetup.com/GDG-Sudbury/",
           "newTab": true
         },
         {
@@ -53,7 +53,7 @@
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "url": "https://devfest2019.gdgsudbury.ca/team/",
           "newTab": true
         }
       ]
@@ -62,23 +62,28 @@
       "title": "Explore Past DevFests",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "GDG DevFest Sudbury 2019",
+          "url": "https://devfest2019.gdgsudbury.ca/",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
+          "name": "GDG DevFest Sudbury 2018",
+          "url": "https://devfest2018.gdgsudbury.ca/",
           "newTab": true
         },
         {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
+          "name": "GDG DevFest Sudbury 2017",
+          "url": "https://devfest2017.gdgsudbury.ca//",
           "newTab": true
         },
         {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "GDG DevFest Sudbury 2016",
+          "url": "https://devfest2016.gdgsudbury.ca/",
+          "newTab": true
+        },
+        {
+          "name": "GDG DevFest Sudbury 2015",
+          "url": "https://plus.google.com/+GDGSudburyCA/posts/3V7ZvqGdB8d",
           "newTab": true
         }
       ]
@@ -88,22 +93,22 @@
       "links": [
         {
           "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "https://drive.google.com/open?id=1bP539aFDb49TDCeUs6gzsrBfImoV_Gqt",
           "newTab": true
         },
         {
           "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "https://drive.google.com/open?id=1bP539aFDb49TDCeUs6gzsrBfImoV_Gqt",
           "newTab": true
         },
         {
           "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "https://drive.google.com/open?id=1bP539aFDb49TDCeUs6gzsrBfImoV_Gqt",
           "newTab": true
         },
         {
           "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
+          "url": "https://forms.gle/QtmY9W8QseUswMe66",
           "newTab": true
         },
         {
@@ -118,30 +123,22 @@
   "codeOfConduct": "Code of Conduct",
   "codeOfConductBlock": {
     "organization": "DevFest",
-    "form": "https://bit.ly/2RstTJ8",
-    "contacts": [
-      "Organizer Oleh Zasadnyy, [+38 093 486 6460](tel:+380934866460), o.zasadnyy@gdg.org.ua",
-      "Organizer Sofiya Huts, [+38 093 486 1425](tel:+380934861425), s.huts@gdg.org.ua"
-    ]
+    "form": "",
+    "contacts": []
   },
   "aboutBlock": {
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "GDG Sudbury DevFest brings together local experts in Android, Web and Cloud technologies for a free day of sessions, workshops and showcases.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
-      },
-      "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "25"
       },
       "days": {
         "label": "Days",
@@ -149,11 +146,11 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "5"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "1"
       }
     }
   },
@@ -174,13 +171,6 @@
       "companyName": "Company Name"
     },
     "toast": "We will contact you soon!"
-  },
-  "featuredVideos": {
-    "title": "DFUA'16 featured videos",
-    "callToAction": {
-      "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
-    }
   },
   "blog": {
     "published": "Published",
@@ -213,11 +203,11 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "2016 highlights",
+    "description": "The 2016 event was small but focused, and built momentum for this year.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "link": "https://goo.gl/photos/v2kzvDaabpQn6cLF7"
     }
   },
   "mapBlock": {
@@ -241,7 +231,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "[Google Developers Group (GDG) Sudbury](http://gdgsudbury.ca) organizes meetings focused on software development efforts such as Android, HTML5, RDFa Lite and microdata, and other open source programming, open web, open data subjects. Meetings are free and open to the general public."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -288,7 +278,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='http://gdgsudbury.ca' target='_blank'>GDG Sudbury</a> with support of GDGs from across Canada, GDG Sudbury is a proud DevFest organizer",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
